@@ -19,7 +19,7 @@ export default function Float() {
     }}
     
     >
-    <motion.div className='front p-4 absolute [backface-visibility:hidden] border-2 w-[336px] h-[576px] border-black rounded-[36px] bg-purple-400' >
+    <motion.div className='front p-4 absolute [backface-visibility:hidden] border-2 w-[336px] h-[576px] border-black rounded-[36px]' >
         <img className='w-[288px] h-[288px] object-cover '  src='cute-img.png'/>
         <p className='text-[24px] p-[10px]'>Cute prick</p> 
         <p className='px-[10px] py-[5px] text-[18px]'>Ratings</p>
